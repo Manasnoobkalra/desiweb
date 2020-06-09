@@ -1,0 +1,50 @@
+<div class="container">
+      <div class="bg1">
+        <h2>enter<span></span></h2>
+        <p>enter</p>
+      </div>
+      <div class="bg1">
+        <h2><i class=""></i></h2>
+        <p>enter</p>
+      </div>
+      <div class="bg2">
+        <h2>enter<i class=""></i></h2>
+        <p>enter</p>
+      </div>
+      <div class="bg1">
+        <h2>enter</h2>
+        <p>enter</p>
+      </div>
+      <div class="bg1">
+        <h2><i class=""></i></h2>
+        <p></p>
+      </div>
+      <div class="bg2">
+        <h2> <span></span></h2>
+        <p></p>
+      </div>
+      <div class="bg1">
+        <h2> <span></span></h2>
+        <p></p>
+      </div>
+      <div class="bg1">
+        <h2> enter<span></span></h2>
+        <p>enter</p>
+      </div>
+      <div class="bg2">
+        <h2>enter <span></span></h2>
+        <p>enter</p>
+      </div>
+      <div class="bg2">
+        <h2> enter<span></span></h2>
+        <p>enter</p>
+      </div>
+      <div class="bg2">
+        <h2>enter<i class=""></i></h2>
+        <p>enter</p>
+      </div>
+      <div class="bg2">
+        <h2>enter <span></span></h2>
+        <p>enter</p>
+      </div>
+    </div>
